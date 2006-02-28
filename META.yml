@@ -1,5 +1,5 @@
 abstract: Library containing over 100 Zen Koans.
-author: Luke Closs <lukec@cpan.org>
+author: 'Luke Closs <lukec@cpan.org> is the author of this module, but not of the'
 build_requires:
   Test::More: 0.42
 distribution_type: module
@@ -10,4 +10,4 @@ no_index:
   directory:
     - inc
     - t
-version: 0.02
+version: 0.03
